@@ -22,12 +22,12 @@ The goal is an assistant that feels like an extension of how I think and work �
 
 | Repo | What it is |
 |------|-----------|
-| [`core`](../core) | AI backend — LangGraph agent, mem0 memory, MCP tools, WebSocket API |
-| [`cortex_matrix_bot`](../cortex_matrix_bot) | Matrix interface — E2EE, streaming responses, in-room SAS verification |
-| [`telegram_bot`](../telegram_bot) | Telegram interface — streaming tokens, background runs |
-| [`deep_research_agent`](../deep_research_agent) | Iterative web research subprocess — multi-step search and synthesis |
-| [`home_orchestration`](../home_orchestration) | Home Assistant control subprocess — natural-language smart home commands |
-| [`kb`](../kb) | Research and design documentation — vision, architecture decisions, phase specs |
+| [`core`](https://github.com/cortexhb/core) | AI backend — LangGraph agent, mem0 memory, MCP tools, WebSocket API |
+| [`cortex_matrix_bot`](https://github.com/cortexhb/cortex_matrix_bot) | Matrix interface — E2EE, streaming responses, in-room SAS verification |
+| [`telegram_bot`](https://github.com/cortexhb/telegram_bot) | Telegram interface — streaming tokens, background runs |
+| [`deep_research_agent`](https://github.com/cortexhb/deep_research_agent) | Iterative web research subprocess — multi-step search and synthesis |
+| [`home_orchestration`](https://github.com/cortexhb/home_orchestration) | Home Assistant control subprocess — natural-language smart home commands |
+| [`kb`](https://github.com/cortexhb/kb) | Research and design documentation — vision, architecture decisions, phase specs |
 
 ## Stack
 
