@@ -27,6 +27,8 @@ The goal is an assistant that feels like an extension of how I think and work �
 | [`telegram_bot`](https://github.com/cortexhb/telegram_bot) | Telegram interface — streaming tokens, background runs |
 | [`deep_research_agent`](https://github.com/cortexhb/deep_research_agent) | Iterative web research subprocess — multi-step search and synthesis |
 | [`home_orchestration`](https://github.com/cortexhb/home_orchestration) | Home Assistant control subprocess — natural-language smart home commands |
+| [`infrastructure`](https://github.com/cortexhb/infrastructure) | Docker Compose stacks — Qdrant, Ollama, Neo4j, Langfuse |
+| [`scripts`](https://github.com/cortexhb/scripts) | Start scripts for all services |
 | [`kb`](https://github.com/cortexhb/kb) | Research and design documentation — vision, architecture decisions, phase specs |
 
 ## Stack
@@ -39,7 +41,6 @@ The goal is an assistant that feels like an extension of how I think and work �
 | Memory | Qdrant (vector/episodic) + SQLite (checkpointer) + Neo4j (graph, optional) |
 | Interfaces | Matrix (primary) · Telegram |
 | Tools | MCP servers · SearXNG · Home Assistant · custom Python tools |
-| Web search | SearXNG (self-hosted) |
 | Networking | Tailscale |
 | Hardware | Mac Mini M4 Pro 64 GB |
 
