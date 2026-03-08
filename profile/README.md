@@ -42,7 +42,7 @@ The goal is an assistant that feels like an extension of how I think and work �
 | Interfaces | Matrix (primary) · Telegram |
 | Tools | MCP servers · SearXNG · Home Assistant · custom Python tools |
 | Networking | Tailscale |
-| Hardware | Mac Mini M4 Pro 64 GB |
+| Hardware | MacBook Pro M1 (current) → Mac Mini M4 Pro 64 GB (Phase 1) |
 
 ## Architecture
 
